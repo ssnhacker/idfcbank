@@ -1,2 +1,4 @@
 sample file
 second line
+
+3rd line
